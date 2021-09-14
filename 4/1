@@ -1,0 +1,52 @@
+<html>
+     <head>
+          <style>
+              body {
+                 color: white;
+                 background-color:black;
+              }
+              h1 {
+                  color: #ff0000;
+                  background-color: red;
+              }
+              h2 {
+                  color: orange;
+                  background-color: orange;
+              }
+              h3 {
+                  color: yellow;
+                  background-color: yellow;
+              }
+              h3 {
+                  color: yellow;
+                  background-color: yellow;
+              }
+              h4 {
+                  color:#00ff00;
+                  background-color:#00ff00;
+              }
+              h5 {
+                  color: #0000ff;
+                  background-color: #0000ff;
+              }
+              h6 {
+                  color:rgb(150, 0,225);
+                  background-color:rgb(150, 0, 225);
+              }
+              p {
+                  color: violet;
+                  background-color: violet;
+              }
+          </style>
+    </head>
+    <body>
+        <h1>python</h1>
+        <h2>Java</h2>
+        <h3>R</h3>
+        <h4>javascript</h4>
+        <h5>swift</h5>
+        <h6>++c</h6>
+        <p>php</p>
+    </body>
+ <html>         
+     

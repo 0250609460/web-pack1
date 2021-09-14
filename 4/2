@@ -1,0 +1,45 @@
+
+<html>
+    <head>
+        <style>
+            h1 {
+                color: black;
+                background-color: rgb(225, 0, 0);
+            }
+            h2 {
+                color:#000;
+                background-color: orange;
+            }
+            h3 {
+                color: black;
+                background-color: yellow;
+            }
+            h4 {
+                color: #000;
+                background-color: #00ff00;
+            }
+            h5 {
+                color: black;
+                background-color: #00f;
+            }
+            h6 {
+                color: #000;
+                background-color: rgb(150, 0, 225);
+            }
+            p {
+                color: black;
+                background-color: violet;
+            }
+        </style>
+    </head>
+    <body>
+    <h1>Linus Torvalds:Creator of Linux. Free operating system born in one of the dormitory rooms of the University of Helsinki.</h1>
+    <h2>Head of the Berners-Lee team:The only giant on the list is the one who received the knighthood from Queen Elizabeth II. He invented the Hypertext Transfer Protocol (HTTP).</h2>
+    <h3>Donald Knut:He is one of the scientists who, thanks to extensive research and academic studies in the field of computer science, has now earned the title of "Father of Algorithm Analysis.</h3>
+    <h4>Brendan H:He is the inventor of JavaScript. This programming language is basically a scientific standard for developing web applications.</h4>
+    <h5>Suleiman Hayek:He is the founder of Docker. An incredibly attractive technology that developers and programmers love.</h5>
+    <h6>David Heinmir Hansen:Is a Danish programmer better known as DHH in programming forums. He is the creator of the Ruby Annreal.</h6>
+    <p>Mark Zuckerberg:The celebrity also created Facebook in the dorm room of Harvard University.</p>
+    </body>
+</html>        
+s

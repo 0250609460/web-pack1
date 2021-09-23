@@ -1,0 +1,119 @@
+<html>
+ <head>
+    <style>
+         h5 {
+             background-color: black;
+         }
+    </style>
+</head>   
+<body>
+       <link rel="stylesheet" href="./new.css">
+ <h1><a href="#Nature1">this is Nature1"</a></h1>
+ <h2><a href="#Nature2"><p>this is Nature2"</p></a></h2>
+ <h3><a href="#Nature3"><u>this is Nature3"</u></a></h3>
+     <br>
+     <br>
+     <br>
+     <br>
+     <br>
+     <br>
+     <br> 
+     <br>
+     <br>
+     <br>
+     <br>
+     <br>
+     <br>
+     <br>
+     <br>
+     <br>
+     <br>
+     <br>
+     <br> 
+     <br>
+     <br>
+     <br>
+      <h5><p class="" id="Nature1"></p>
+     <img src="./Capture02.PNG" alt="Nature1"></h5>
+     <br>
+     <br>
+     <br>
+     <br>
+     <br>
+     <br>
+     <br>
+     <br> 
+     <br>
+     <br>
+     <br>
+     <br>
+     <br>
+     <br>
+     <br>
+     <br>
+     <br>
+     <br>
+     <br>
+     <br> 
+     <br>
+     <br>
+     <br>
+     <br>
+     <br>
+      <h5><p class="" id="Nature2"></p>
+     <img src="./Capture03.PNG"alt="Nature2"></h5>
+     <br>
+     <br>
+     <br>
+     <br>
+     <br>
+     <br>
+     <br>
+     <br> 
+     <br>
+     <br>
+     <br>
+     <br>
+     <br>
+     <br>
+     <br>
+     <br>
+     <br>
+     <br>
+     <br>
+     <br> 
+     <br>
+     <br>
+     <br>
+     <br>
+     <br>
+      <h5><p class="" id="Nature3"></p>
+     <img src="./Capture04.PNG"alt="Nature3"></h5>
+     <br>
+     <br>
+     <br>
+     <br>
+     <br>
+     <br>
+     <br>
+     <br> 
+     <br>
+     <br>
+     <br>
+     <br>
+     <br>
+     <br>
+     <br>
+     <br>
+     <br>
+     <br>
+     <br>
+     <br> 
+     <br>
+     <br>
+     <br>
+     <br>
+     <br>
+    
+</body>
+</html>

@@ -1,0 +1,40 @@
+.box1{
+       width: 150px;
+       height: 150px;
+       background-color: aqua;
+       position: fixed;
+       top: 370;
+       left: 740;
+}
+.box2{
+    width: 320px;
+    height: 320px;
+    background-color: blueviolet;
+    position: fixed;
+    top: 48;
+    left: 418;
+}
+.box3{
+    width: 320px;
+    height: 320px;
+    background-color: blue;
+    position: fixed;
+    top: 48px;
+    left: 890;
+}
+div[class="div4"]{
+    width: 320px;
+    height: 320px;
+    background-color: chartreuse;
+    position: fixed;
+    top: 523px;
+    left: 890px;
+}
+div[class="div5"]{
+    width: 320px;
+    height: 320px;
+    background-color: deeppink;
+    position: fixed;
+    top:523px ;
+    left: 422px;
+}
